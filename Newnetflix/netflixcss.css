@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-image:url("C:\Users\ashis\OneDrive\Desktop\netflix clone\photo netflix.jpg");
+    height: 80vh;
+    width: 67vh;
+}
